@@ -1,14 +1,4 @@
-# Sample Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
 # one-piece-dapp
+
+Create a dapp that will help you know what one piece character are you on blockchain, it will ask you a few questions and then record your character on the chain foreverrrr! Isn't the Sugggggggoiiiiii!
